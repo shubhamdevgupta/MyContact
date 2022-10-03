@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="enter_name_here">Enter Name Here</string>
+    <string name="enter_mobile_no">Enter Mobile No</string>
+    <string name="enter_email_here">Enter Email Here</string>
+    <string name="submitt">Submitt</string>
+</resources>
