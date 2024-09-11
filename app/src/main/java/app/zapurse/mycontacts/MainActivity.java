@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements UserItemEventList
             binding.recycleview.setAdapter(adapter);
             adapter.setupUserItemListner(this);
         } else {
-            Toast.makeText(this, "There is no Contacts !!!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Please Add some contact !!", Toast.LENGTH_SHORT).show();
         }
     }
 
